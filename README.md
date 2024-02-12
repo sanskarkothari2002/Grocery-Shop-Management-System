@@ -11,6 +11,6 @@ Order management: Users can manage customer orders, view order history, and gene
 
 Customer management: Users can manage customer accounts, view customer order history, and update customer information.
 
-To get started with this project, you will need to have the following tools installed:
+To get started with this project, you will need to have the following tools installed on your machine:
 1) python
 2) MYSQL
